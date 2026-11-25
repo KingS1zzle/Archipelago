@@ -1,5 +1,6 @@
 from worlds.AutoWorld import World
 from BaseClasses import Item, Location, Region, ItemClassification
+from . import client
 
 GAME = "Pocket MuuMuu"
 
